@@ -1,5 +1,8 @@
 # Robot Swarm Simulation for Oil Spill Cleanup
 
+<img src="./swarm.png " width="300" height="300">
+
+
 This repository contains the code for a robot swarm simulation that uses percolation and blocking mechanisms of network cascades to control robot swarming. The primary goal is to efficiently clean up oil spills through a guided self-organized criticality approach. This simulation showcases how reinforcement learning can be applied to manage and optimize robot interactions for environmental cleanup tasks.
 
 ## Description
